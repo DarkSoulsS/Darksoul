@@ -1,16 +1,27 @@
-How To install\n
+# DarkSoul
 
-pkg update/n
-pkg upgrade/n
-pkg install git
-pkg install python2
-pkg install python
-pip2 install requests
-pip2 install mechanize
-git clone https://github.com/DarkSoulsS/Darksoul
-cd Darksoul
-python DarkSoul.py
+## How To Install
 
+1. Update package lists:
 
-Tested On termux
-status  : Working
+2. Upgrade installed packages:
+
+3. Install Git:
+
+4. Install Python:
+
+4. Install Python 2:
+
+6. Install required Python packages:
+
+7. Clone the DarkSoul repository:
+
+8. Navigate to the DarkSoul directory:
+
+9. Run DarkSoul.py:
+
+## Tested On
+- Termux
+
+## Status
+Working
